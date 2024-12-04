@@ -66,7 +66,8 @@ Excitement - minimal excitement, however more under Trump video " FIRE HIM AND H
 
 - Simulation on how ideas can diffuse into society
   I programmed artificial society to see how fast messages are spread if we have both media channels where people can pick up information. One source is smaller than another one, but more influential.
-  In the results it turned out that doen`t matter how influential is source, the size is much more importang in spredding insormation
+  In the results it turned out that doen`t matter how influential is source, the size is much more importang in spredding insormation.
+  You can find the project in "Spread media in Society.nlogo"
   ![image](https://github.com/user-attachments/assets/962725c3-e837-4fbf-b131-bdad139af2ab)
 ![image](https://github.com/user-attachments/assets/7e4d428c-bcda-40b0-b088-4f5626c5a1bd)
 ![image](https://github.com/user-attachments/assets/4c1dfa92-2c34-410e-89f8-b5f17d5feefb)
